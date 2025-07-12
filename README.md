@@ -102,5 +102,10 @@ Waveforms are automatically generated during simulation using EDA Playground’s
 
 All simulation and waveform analysis for this project were done using **[EDA Playground](https://www.edaplayground.com)**, an online platform for HDL simulation and collaborative development.
 
----
+-----------------------------------------------------------------------------------------------------------------
+### OUTPUT
+<img width="986" height="811" alt="Image" src="https://github.com/user-attachments/assets/ec615c8f-3e91-42dc-8cdd-13723977fff6" />
+
+### OUTPUT WAVEFORM
+<img width="1845" height="391" alt="Image" src="https://github.com/user-attachments/assets/fe7a0203-b18b-49cc-958a-520d162ddfdd" />
 
